@@ -6,8 +6,8 @@ import android.view.View;
 import com.bigkoo.pickerview.R;
 import com.bigkoo.pickerview.adapter.ArrayWheelAdapter;
 import com.bigkoo.pickerview.listener.OnOptionsSelectChangeListener;
-import com.contrarywind.listener.OnItemSelectedListener;
-import com.contrarywind.view.WheelView;
+import com.bigkoo.pickerview.view.wheelview.listener.OnItemSelectedListener;
+import com.bigkoo.pickerview.view.wheelview.view.WheelView;
 
 import java.util.List;
 

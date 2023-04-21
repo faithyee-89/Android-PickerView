@@ -23,7 +23,9 @@ android {
 }
 
 dependencies {
-    implementation project(':pickerview')
+//    api fileTree(dir: "libs", include: ["*.jar", "*.aar"])
+    implementation project(':mylibrary') //使用aar的方式依赖项目
+//    implementation project(':pickerview') //使用关联module代码的方式依赖项目
     implementation "androidx.appcompat:appcompat:1.5.1"
     implementation 'com.google.code.gson:gson:2.10'
 }

@@ -7,8 +7,8 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.bigkoo.pickerview.adapter.ArrayWheelAdapter;
-import com.contrarywind.listener.OnItemSelectedListener;
-import com.contrarywind.view.WheelView;
+import com.bigkoo.pickerview.view.wheelview.listener.OnItemSelectedListener;
+import com.bigkoo.pickerview.view.wheelview.view.WheelView;
 
 import java.util.ArrayList;
 import java.util.List;

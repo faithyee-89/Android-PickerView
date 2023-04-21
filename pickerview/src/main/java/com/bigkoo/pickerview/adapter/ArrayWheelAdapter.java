@@ -1,6 +1,6 @@
 package com.bigkoo.pickerview.adapter;
 
-import com.contrarywind.adapter.WheelAdapter;
+import com.bigkoo.pickerview.view.wheelview.adapter.WheelAdapter;
 
 import java.util.List;
 

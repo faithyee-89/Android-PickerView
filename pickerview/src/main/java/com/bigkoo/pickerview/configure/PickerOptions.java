@@ -12,7 +12,7 @@ import com.bigkoo.pickerview.listener.OnOptionsSelectChangeListener;
 import com.bigkoo.pickerview.listener.OnOptionsSelectListener;
 import com.bigkoo.pickerview.listener.OnTimeSelectChangeListener;
 import com.bigkoo.pickerview.listener.OnTimeSelectListener;
-import com.contrarywind.view.WheelView;
+import com.bigkoo.pickerview.view.wheelview.view.WheelView;
 
 import java.util.Calendar;
 
